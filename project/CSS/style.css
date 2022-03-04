@@ -1,0 +1,15 @@
+nav {
+    background-color: green;
+}
+
+#left-column{
+    background-color: red;
+}
+
+#right-column{
+    background-color: yellow;
+}
+
+#footer{
+    background-color: blue;
+}
