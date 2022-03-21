@@ -13,3 +13,8 @@ nav {
 #footer{
     background-color: blue;
 }
+
+.jumbotron{
+    background-image:url(images/youngstwon.jpg);
+    background-size: cover;
+}
