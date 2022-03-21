@@ -14,7 +14,8 @@ nav {
     background-color: blue;
 }
 
-.jumbotron{
+.jumbotron {
     background-image: url("images/youngstwown.jpg");
-    background-size:cover
+    background-size:cover;
 
+}
